@@ -1,4 +1,4 @@
-# ☎️ **Análisis operativo de una empresa de telefonía virtual** ☎️
+# ☎️ **Análisis operativo de una empresa de Telefonía virtual** ☎️
 **CallMeMaybe** Es una empresa que brinda servicio de telefonía virtual, sus clientes son organizaciones que necesitan distribuir gran cantidad de llamadas entrantes entre varios operadores o realizar llamadas salientes a través de sus operadores. Asimismo, los operadores también pueden realizar llamadas internas para comunicarse entre ellos, estas llamadas se realizan a través de la red de CallMeMaybe.
 
 *"Lo que no se define no se puede medir. Lo que no se mide, no se puede mejorar"*
